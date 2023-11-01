@@ -1,2 +1,4 @@
 title: Vamshi Vijay Krishna Jeripotula
-remote_theme: pages-themes/minimal@v0.2.0
+# logo:  
+theme: jekyll-theme-minimal
+show_downloads: true
